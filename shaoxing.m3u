@@ -64,6 +64,30 @@ http://125.210.152.18:9090/live/ZJWSHD_H265.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 ,浙江钱江备用
 http://125.210.152.18:9090/live/QJPD.m3u8
+#EXTINF:-1 ,浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 ,浙江经济生活备用
+http://125.210.152.18:9090/live/ZJJS.m3u8
+#EXTINF:-1 ,浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 ,浙江教科影视备用
+http://125.210.152.18:9090/live/ZJJYKJ.m3u8
+#EXTINF:-1 ,浙江影视娱乐
+http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u83
+#EXTINF:-1 ,浙江影视娱乐备用
+http://125.210.152.18:9090/live/ZJYSYL.m3u8
+#EXTINF:-1 ,浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 ,浙江民生休闲备用
+http://125.210.152.18:9090/live/ZJMS.m3u8
+#EXTINF:-1 ,浙江公共新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 ,浙江公共新闻备用
+http://125.210.152.18:9090/live/ZJGG.m3u8
+#EXTINF:-1 ,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 ,浙江少儿备用
+http://125.210.152.18:9090/live/ZJSE.m3u8
 #EXTINF:-1 ,FM88浙江之声
 http://yd-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
 #EXTINF:-1 ,FM93交通之声
@@ -189,6 +213,12 @@ http://ivi.bupt.edu.cn/hls/btv8.m3u8
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
 #EXTINF:-1 ,北京卡酷少儿
 http://ivi.bupt.edu.cn/hls/btv10.m3u8
+#EXTINF:-1 ,浙江留学频道
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+#EXTINF:-1 ,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 ,浙江数码
+http://yf-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 #EXTINF:-1 ,房山电视台
 http://live.funhillmedia.com/live/tv/tzwj_video.m3u8
 #EXTINF:-1 ,怀柔电视台
@@ -3547,36 +3577,6 @@ http://stream.nbbltv.com/nbbltv1/sd/live.m3u8
 http://61.153.68.139:1935/live/live1/playlist.m3u8
 #EXTINF:-1 ,济南科教
 http://ts4.ijntv.cn/ltv2/sd/live.m3u8?_upt=1f8085ad1578914813
-#EXTINF:-1 ,浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活备用
-http://125.210.152.18:9090/live/ZJJS.m3u8
-#EXTINF:-1 ,浙江教科影视
-http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 ,浙江教科影视备用
-http://125.210.152.18:9090/live/ZJJYKJ.m3u8
-#EXTINF:-1 ,浙江影视娱乐
-http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u83
-#EXTINF:-1 ,浙江影视娱乐备用
-http://125.210.152.18:9090/live/ZJYSYL.m3u8
-#EXTINF:-1 ,浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 ,浙江民生休闲备用
-http://125.210.152.18:9090/live/ZJMS.m3u8
-#EXTINF:-1 ,浙江公共新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 ,浙江公共新闻备用
-http://125.210.152.18:9090/live/ZJGG.m3u8
-#EXTINF:-1 ,浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 ,浙江少儿备用
-http://125.210.152.18:9090/live/ZJSE.m3u8
-#EXTINF:-1 ,浙江留学频道
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 ,浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 ,浙江数码
-http://yf-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 #EXTINF:-1 ,杭州HTV-1
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
 #EXTINF:-1 ,杭州HTV-2
