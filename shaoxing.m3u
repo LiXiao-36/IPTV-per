@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV中国中央电视台-1 综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV-1 综合
 http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-2 财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png",CCTV-2 财经
 http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-3 综艺
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",CCTV-3 综艺
 http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-4 中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png",CCTV-4 中文国际
 http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-5 体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV-5 体育
 http://112.17.40.140/PLTV/88888888/224/3221226328/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-5+ 体育赛事
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV-5+ 体育赛事
 http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-6 电影
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png",CCTV-6 电影
 http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-7 国防军事
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png",CCTV-7 国防军事
 http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-8 电视剧
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png",CCTV-8 电视剧
 http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-9 纪录
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png",CCTV-9 纪录
 http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-10 科教
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png",CCTV-10 科教
 http://112.17.40.140/PLTV/88888888/224/3221226472/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-11 戏曲
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png",CCTV-11 戏曲
 http://112.17.40.140/PLTV/88888888/224/3221226219/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-12 社会与法制
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png",CCTV-12 社会与法制
 http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-13 新闻
 http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-13 新闻 备用
 http://117.169.120.140:8080/live/cctv-13/.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV-14 少儿
 http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
 
-#EXTINF:-1 ,CCTV中国中央电视台-15 音乐
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png",CCTV-15 音乐
 http://117.169.120.160:8080/live/cctv-15/1.m3u8
 
 #EXTINF:-1 ,绍兴新闻综合
@@ -64,46 +64,6 @@ http://125.210.152.18:9090/live/ZJWSHD_H265.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 ,浙江钱江备用
 http://125.210.152.18:9090/live/QJPD.m3u8
-#EXTINF:-1 ,浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活备用
-http://125.210.152.18:9090/live/ZJJS.m3u8
-#EXTINF:-1 ,浙江教科影视
-http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 ,浙江教科影视备用
-http://125.210.152.18:9090/live/ZJJYKJ.m3u8
-#EXTINF:-1 ,浙江影视娱乐
-http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u83
-#EXTINF:-1 ,浙江影视娱乐备用
-http://125.210.152.18:9090/live/ZJYSYL.m3u8
-#EXTINF:-1 ,浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 ,浙江民生休闲备用
-http://125.210.152.18:9090/live/ZJMS.m3u8
-#EXTINF:-1 ,浙江公共新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 ,浙江公共新闻备用
-http://125.210.152.18:9090/live/ZJGG.m3u8
-#EXTINF:-1 ,浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 ,浙江少儿备用
-http://125.210.152.18:9090/live/ZJSE.m3u8
-#EXTINF:-1 ,浙江留学频道
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 ,浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 ,浙江数码
-http://yf-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-#EXTINF:-1 ,杭州HTV-1
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-#EXTINF:-1 ,杭州HTV-2
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-#EXTINF:-1 ,杭州HTV-3
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-#EXTINF:-1 ,杭州HTV-4
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-#EXTINF:-1 ,杭州HTV-5
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1 ,FM88浙江之声
 http://yd-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
 #EXTINF:-1 ,FM93交通之声
@@ -3123,16 +3083,6 @@ http://24tl.qingk.cn/live/yatv.flv
 http://24tl.qingk.cn/live/yatv2.flv
 #EXTINF:-1 ,宝塔电视台
 http://24tl.qingk.cn/live/bttv.flv
-#EXTINF:-1 ,杭州HTV-1
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-#EXTINF:-1 ,杭州HTV-2
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-#EXTINF:-1 ,杭州HTV-3
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-#EXTINF:-1 ,杭州HTV-4
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-#EXTINF:-1 ,杭州HTV-5
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1 ,甘肃卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,酒泉公共
@@ -3597,5 +3547,43 @@ http://stream.nbbltv.com/nbbltv1/sd/live.m3u8
 http://61.153.68.139:1935/live/live1/playlist.m3u8
 #EXTINF:-1 ,济南科教
 http://ts4.ijntv.cn/ltv2/sd/live.m3u8?_upt=1f8085ad1578914813
-#EXTINF:-1 ,浙江公共频道
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
+#EXTINF:-1 ,浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 ,浙江经济生活备用
+http://125.210.152.18:9090/live/ZJJS.m3u8
+#EXTINF:-1 ,浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 ,浙江教科影视备用
+http://125.210.152.18:9090/live/ZJJYKJ.m3u8
+#EXTINF:-1 ,浙江影视娱乐
+http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u83
+#EXTINF:-1 ,浙江影视娱乐备用
+http://125.210.152.18:9090/live/ZJYSYL.m3u8
+#EXTINF:-1 ,浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 ,浙江民生休闲备用
+http://125.210.152.18:9090/live/ZJMS.m3u8
+#EXTINF:-1 ,浙江公共新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 ,浙江公共新闻备用
+http://125.210.152.18:9090/live/ZJGG.m3u8
+#EXTINF:-1 ,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 ,浙江少儿备用
+http://125.210.152.18:9090/live/ZJSE.m3u8
+#EXTINF:-1 ,浙江留学频道
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+#EXTINF:-1 ,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 ,浙江数码
+http://yf-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+#EXTINF:-1 ,杭州HTV-1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 ,杭州HTV-2
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1 ,杭州HTV-3
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 ,杭州HTV-4
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 ,杭州HTV-5
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
