@@ -1,14 +1,25 @@
 #EXTM3U
+#EXTINF:-1 ,CCTV 4K
+http://cd-live-stream.news.cctvplus.com/live/CHANNEL2.smil/chunklist_w1123571901_b1000000.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV-1 综合
+http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV-1 综合备用
 http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png",CCTV-2 财经
 http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png",CCTV-2 财经备用
+http://117.169.120.160:8080/live/cctv-2/1.m3u8
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",CCTV-3 综艺
 http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",CCTV-3 综艺备用
+http://117.169.120.160:8080/live/cctv-3/1.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png",CCTV-4 中文国际
+http://112.17.40.140/PLTV/88888888/224/3221226171/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png",CCTV-4 中文国际备用
 http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV-5 体育
