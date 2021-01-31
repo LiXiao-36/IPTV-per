@@ -3,7 +3,7 @@
 http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png",CCTV-2 财经
-http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",CCTV-3 综艺
 http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
