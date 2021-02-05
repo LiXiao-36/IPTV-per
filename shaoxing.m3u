@@ -50,11 +50,11 @@ http://112.17.40.140/PLTV/88888888/224/3221226219/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-13 新闻
-http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
-
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-13 新闻 备用
 http://117.169.120.140:8080/live/cctv-13/.m3u8
-
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-13 新闻 低清
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-13 新闻 备用
+http://cm.wshls.homecdn.com/live/4e2f.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV-14 少儿
 http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
 
