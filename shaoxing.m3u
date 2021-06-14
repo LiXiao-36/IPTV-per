@@ -42,7 +42,7 @@ http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png",CCTV-9 纪录
 http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png",CCTV-9 纪录 备用
-http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvjilu_2_hd.m3u8
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png",CCTV-10 科教
 http://112.17.40.140/PLTV/88888888/224/3221226472/index.m3u8
