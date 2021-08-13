@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="主要",绍兴新闻综合
+#EXTINF:-1 ,绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-#EXTINF:-1 group-title="主要",绍兴公共频道
+#EXTINF:-1 ,绍兴公共频道
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 group-title="主要",绍兴文化影视
+#EXTINF:-1 ,绍兴文化影视
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 #EXTINF:-1 ,CCTV-1综合频道[1920*1080]
@@ -43,21 +43,21 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 ,CCTV中视购物[1920*1080]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226385/1.m3u8
 
-#EXTINF:-1 group-title="主要",浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 group-title="主要",浙江钱江
+#EXTINF:-1 ,浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 group-title="主要",浙江经济生活
+#EXTINF:-1 ,浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 group-title="主要",浙江教科影视
+#EXTINF:-1 ,浙江教科影视
 http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 group-title="主要",浙江影视娱乐
+#EXTINF:-1 ,浙江影视娱乐
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u83
-#EXTINF:-1 group-title="主要",浙江民生休闲
+#EXTINF:-1 ,浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 group-title="主要",浙江公共新闻
+#EXTINF:-1 ,浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 group-title="主要",浙江少儿
+#EXTINF:-1 ,浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 
 #EXTINF:-1 ,CGTN DOCUMENTARY[768*576]
