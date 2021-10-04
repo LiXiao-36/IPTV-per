@@ -8,12 +8,19 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 #EXTINF:-1 ,CCTV-1综合频道[1920*1080]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 ,CCTV-1综合频道[1920*1080]
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
+#EXTINF:-1 ,CCTV-1综合频道[1280*720]
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226338/1.m3u8
+
 #EXTINF:-1 ,CCTV-2财经频道[1920*1080]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8
 #EXTINF:-1 ,CCTV-3综艺频道[1920*1080]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
 #EXTINF:-1 ,CCTV-4中文国际频道[1920*1080]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
+#EXTINF:-1 ,CCTV-4中文国际频道[1920*1080]
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
 #EXTINF:-1 ,CCTV-5体育频道[1920*1080]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 #EXTINF:-1 ,CCTV5+体育赛事频道[1920*1080]
@@ -32,8 +39,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m3u8
 #EXTINF:-1 ,CCTV-12社会与法频道[1920*1080]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
+
 #EXTINF:-1 ,CCTV-13新闻频道[1920*1080]
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+#EXTINF:-1 ,CCTV-13新闻频道[1280*720]
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226339/1.m3u8
+
 #EXTINF:-1 ,CCTV-14少儿频道[1920*1080]
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 ,CCTV-15音乐频道[1920*1080]
