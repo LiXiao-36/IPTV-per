@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 ,FM88浙江之声
+http://yd-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
+#EXTINF:-1 ,FM93交通之声
+http://yd-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
+#EXTINF:-1 ,FM95经济广播
+http://yd-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
+#EXTINF:-1 ,FM96.8音乐调频
+http://yd-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
+#EXTINF:-1 ,FM98.8浙江新闻广播
+http://yd-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
+#EXTINF:-1 ,FM99.6民生
+http://yd-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+#EXTINF:-1 ,FM104.5女主播电台
+http://yd-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
+#EXTINF:-1 ,FM107城市之声
+http://yd-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
+
+#EXTINF:-1 group-title="广播",绍兴新闻广播FM33.6
+http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+#EXTINF:-1 group-title="广播",绍兴交通频率FM94.1
+http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+#EXTINF:-1 group-title="广播",绍兴戏曲音乐FM103.5
+http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
+
 #EXTINF:-1 ,绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 ,绍兴公共频道
