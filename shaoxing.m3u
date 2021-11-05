@@ -31,40 +31,39 @@ http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 #EXTINF:-1 ,CCTV-1综合频道
-http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 ,CCTV-2财经频道
-http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 ,CCTV-3综艺频道
-http://117.169.120.160:8080/live/cctv-3/1.m3u8
-#EXTINF:-1 ,CCTV-4中文国际频道*
-http://117.156.28.119/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 ,CCTV-4中文国际频道*
-#EXTINF:-1 ,CCTV-5体育频道*
-http://117.169.120.226:8080/live/cctv-5/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 ,CCTV-4中文国际频道
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV-5体育频道
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 ,CCTV5+体育赛事频道
-http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 ,CCTV-6电影频道*
-http://117.169.120.226:8080/live/cctv-6/2.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 ,CCTV-6电影频道
+http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 #EXTINF:-1 ,CCTV-7国防军事频道
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 ,CCTV-8电视剧频道*
-http://117.169.120.226:8080/live/cctv-8/1.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧频道
+http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
 #EXTINF:-1 ,CCTV-9纪录频道
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 ,CCTV-10科教频道
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 ,CCTV-11戏曲频道
-http://112.17.40.140/PLTV/88888888/224/3221226219/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 ,CCTV-12社会与法频道
-http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
-#EXTINF:-1 ,CCTV-13新闻频道*
-http://117.169.120.226:8080/live/cctv-13/1.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 ,CCTV-13新闻频道
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 ,CCTV-14少儿频道
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 ,CCTV-15音乐频道
 http://112.17.40.140/PLTV/88888888/224/3221226112/index.m3u8
 #EXTINF:-1 ,CCTV-17农业农村频道
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 #EXTINF:-1 ,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
