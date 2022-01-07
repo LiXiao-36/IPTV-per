@@ -16,7 +16,7 @@ http://yd-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
 http://yd-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
 #EXTINF:-1 tvg-id="FM107城市之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM107城市之声
 http://yd-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
-#EXTINF:-1 tvg-id="绍兴新闻广播FM33.6" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",绍兴新闻广播FM33.6
+#EXTINF:-1 tvg-id="绍兴新闻广播FM93.6" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",绍兴新闻广播FM33.6
 http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
 #EXTINF:-1 tvg-id="绍兴交通频率FM94.1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",绍兴交通频率FM94.1
 http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
