@@ -1,39 +1,10 @@
 #EXTM3U 
-
-#EXTINF:-1 tvg-id="FM88浙江之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM88浙江之声
-http://yd-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
-#EXTINF:-1 tvg-id="FM93交通之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM93交通之声
-http://yd-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
-#EXTINF:-1 tvg-id="FM95经济广播" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM95经济广播
-http://yd-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
-#EXTINF:-1 tvg-id=",FM96.8音乐调频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM96.8音乐调频
-http://yd-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
-#EXTINF:-1 tvg-id="FM98.8浙江新闻广播" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM98.8浙江新闻广播
-http://yd-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
-#EXTINF:-1 tvg-id="FM99.6民生" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM99.6民生
-http://yd-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
-#EXTINF:-1 tvg-id="FM104.5女主播电台" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM104.5女主播电台
-http://yd-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
-#EXTINF:-1 tvg-id="FM107城市之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM107城市之声
-http://yd-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
-#EXTINF:-1 tvg-id="绍兴新闻广播FM93.6" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",绍兴新闻广播FM33.6
-http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
-#EXTINF:-1 tvg-id="绍兴交通频率FM94.1" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",绍兴交通频率FM94.1
-http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
-#EXTINF:-1 tvg-id="绍兴戏曲音乐FM103.5" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",绍兴戏曲音乐FM103.5
-http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
-
 #EXTINF:-1 tvg-id="绍兴新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",绍兴新闻综合 (720p)
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 tvg-id="绍兴文化影视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",绍兴文化影视 (720p)
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 tvg-id="绍兴公共频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",绍兴公共频道 (720p)
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CCTV+ 1 (720p)
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CCTV+ 2 (720p)
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV-1综合 (1080p)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="",CCTV-2财经 (1080p)
