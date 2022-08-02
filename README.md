@@ -1,7 +1,9 @@
 # iptv
 专为浙江绍兴地区的IPTV直播，包含了绍兴的本地电视台，浙江的电视台、广播电台以及央视，列表后有全国的直播源，但播放不稳定，本人也不会进行维护  
-说明:只实验了当地的移动宽带，其他宽带不能保证直播效果  
-复制这个连接到支持播放IPTV的软件就可使用- `https://lixiao-36.github.io/shaoxingiptv/shaoxing.m3u`  
+说明:只实验了当地的移动宽带，其他宽带不能保证直播效果
+# 食用方法
+安装IPTV软件，这里就随便放一个https://wwi.lanzoup.com/iKdPn08vwq8b
+复制这个连接到支持播放IPTV的软件就可使用- `https://lixiao-36.github.io/shaoxingiptv/shaoxing.m3u`
 超全的直播源：[iptv-org/iptv](https://github.com/iptv-org/iptv)  
 友情连接：[推荐软件地址iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
 # 声明  
