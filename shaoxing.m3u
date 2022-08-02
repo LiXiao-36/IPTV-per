@@ -21,7 +21,6 @@ http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
 http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
 #EXTINF:-1 tvg-id="绍兴戏曲音乐FM103.5" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",绍兴戏曲音乐FM103.5
 http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
-
 #EXTINF:-1 tvg-id="绍兴新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",绍兴新闻综合 (720p)
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 tvg-id="绍兴文化影视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",绍兴文化影视 (720p)
