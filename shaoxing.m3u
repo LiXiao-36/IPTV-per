@@ -5,11 +5,11 @@ http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
 http://ali-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
 #EXTINF:-1 tvg-id=",FM96.8音乐调频" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM96.8音乐调频
 http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
-#EXTINF:-1 tvg-id="FM99.6民生资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM99.6民生
+#EXTINF:-1 tvg-id="FM99.6民生资讯" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM99.6民生资讯
 http://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
 #EXTINF:-1 tvg-id="FM93交通之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM93交通之声
 http://ali-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
-#EXTINF:-1 tvg-id="FM104.5旅游之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM104.5女主播电台
+#EXTINF:-1 tvg-id="FM104.5旅游之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM104.5旅游之声
 http://ali-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
 #EXTINF:-1 tvg-id="FM107城市之声" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广播",FM107城市之声
 http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
