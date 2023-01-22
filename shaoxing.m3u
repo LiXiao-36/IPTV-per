@@ -67,8 +67,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="ZheJiangMinShengXiuXian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="ZheJiang6Tao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江6套
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 #EXTINF:-1 tvg-id="ZheJiangIZheJiangXiuXian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-id="ZheJiangIZheJiangGuoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江国际
