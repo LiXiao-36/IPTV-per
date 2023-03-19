@@ -4,7 +4,7 @@
 包含了绍兴的本地电视台，浙江的电视台、广播电台以及央视，列表后有全国的直播源，但播放不稳定，本人也不会进行维护，另外：只实验了当地的移动宽带，其他宽带不能保证直播效果  
 节目列表：浙江、绍兴的广播以及电视
 # 食用方法
-安装IPTV软件，这里就随便放一个https://wwi.lanzoup.com/iKdPn08vwq8b  
+安装IPTV软件，这里就随便放一个https://wwi.lanzoup.com/iKdPn08vwq8b  ，ios可用WhatsUp TV，可以后台播放且无广告
 复制这个连接到支持播放IPTV的软件就可使用- `https://raw.githubusercontent.com/LiXiao-36/IPTV-per/main/shaoxing.m3u`  
 超全的直播源：[iptv-org/iptv](https://github.com/iptv-org/iptv)  
 友情连接：[推荐软件地址iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
