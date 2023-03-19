@@ -5,7 +5,7 @@
 节目列表：浙江、绍兴的广播以及电视
 # 食用方法
 安装IPTV软件，这里就随便放一个https://wwi.lanzoup.com/iKdPn08vwq8b  
-复制这个连接到支持播放IPTV的软件就可使用- `https://raw.githubusercontent.com/LiXiao-36/shaoxingiptv/main/shaoxing.m3u`  
+复制这个连接到支持播放IPTV的软件就可使用- `https://raw.githubusercontent.com/LiXiao-36/IPTV-per/main/shaoxing.m3u`  
 超全的直播源：[iptv-org/iptv](https://github.com/iptv-org/iptv)  
 友情连接：[推荐软件地址iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
 # 声明  
