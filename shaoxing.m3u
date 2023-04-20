@@ -54,7 +54,7 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001012/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-12社会与法制
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-13新闻
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001014/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-14少儿
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-15音乐
