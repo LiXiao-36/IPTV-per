@@ -7,7 +7,8 @@
 安装IPTV软件，这里就随便放一个https://wwi.lanzoup.com/iKdPn08vwq8b  ，ios可用WhatsUp TV或者APTV，可以后台播放且无广告
 复制这个连接到支持播放IPTV的软件就可使用- `https://raw.githubusercontent.com/LiXiao-36/IPTV-per/main/shaoxing.m3u`  
 可借助 ghproxy 为 GitHub 加速：在 https://raw.githubusercontent.com/ 前添加 https://ghproxy.com/
-`https://ghproxy.com/https://raw.githubusercontent.com/LiXiao-36/IPTV-per/main/shaoxing.m3u` 
+绍兴源- `https://ghproxy.com/https://raw.githubusercontent.com/LiXiao-36/IPTV-per/main/shaoxing.m3u`  
+百事通源- `https://ghproxy.com/https://raw.githubusercontent.com/LiXiao-36/IPTV-per/main/bestv.m3u`  
 超全的直播源：[iptv-org/iptv](https://github.com/iptv-org/iptv)  
 友情连接：[推荐软件地址iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv)
 # 声明  
