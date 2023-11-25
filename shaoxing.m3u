@@ -35,8 +35,6 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-4中文国际
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-5+体育赛事
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-5体育
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-6电影
@@ -58,9 +56,11 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-14少儿
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-15音乐
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_kdusrmdv_keyEC424309B94EB4BC3422320FE6F50266D40B88B76BFD8963543C9721918E4EA689CB0427E03B3A08F7CA4D49E72CCE674534301E5FC5A3150A9D77D60CEE6DEE1D6A900066C00E81655B900A3397E0FF840137B356020A738E7B62959954A73A754BE5519C4C18CDD5219425C2A04D77187102CB9E92F468A5EFC20437A1C0C9_/live/cctv15hd8m/8000000/d1.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-5+体育赛事
+https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-16奥林匹克
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_kkguxped_key35E8E1AC4F1A76A3E9A6B3823CCFBCB99BED56ABEB7F37FDA8C935D31313A0BDE9E9720927DB216B0F29DD5CAC3C51A820F3F0D67DEEE29D272595E71AD3F3EF79AEE88B5EE27D63CCCF9CC9E1D94AB6B242A460EEC56F9B97A5453EDEA7A6F9BDCF594E89649E605E777EF5FE3DDEF6F7BAA0052329879D16ABBE161C7EBD20_/live/cctv16hd8m/8000000/d1.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-17农业农村
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="ZheJiangQianJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江钱江
@@ -77,8 +77,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 tvg-id="ZheJiangIZheJiangXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIZheJiangYiGou.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江易购
-http://hw-m-l.cztv.com/channels/lantian/channel11/720p.m3u8
 #EXTINF:-1 tvg-id="ZheJiangIZheJiangLiuXue.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江留学
 http://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8
 #EXTINF:-1 tvg-id="ZheJiangIZheJiangJingJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江经济
