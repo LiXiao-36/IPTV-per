@@ -63,41 +63,24 @@ https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-17农业农村
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 tvg-id="ZheJiangQianJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江钱江
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangMinShengXiuXian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIZheJiangXiuXian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江休闲
-http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIZheJiangGuoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIZheJiangShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIZheJiangJiaoYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江教育
-http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIZheJiangXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIZheJiangLiuXue.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江留学
-http://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIZheJiangJingJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江经济
-http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIShaoXingYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",绍兴影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-id="ZheJiangIShaoXingZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",绍兴综合
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 tvg-id="ZheJiangGongGong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江公共
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+
 #EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江卫视
-http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
-#EXTINF:-1 tvg-id="ZheJiangGuoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangQianJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",钱江都市
+http://ali-vl.cztv.com/channels/lantian/channel002/360p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangJiaoKeYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江经济生活
+http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 #EXTINF:-1 tvg-id="ZheJiangJiaoKeYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江教科影视
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangShuMaShiDai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangLiuXue.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江留学
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 tvg-id="ZheJiangJingJiShengHuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangMinShengXiuXian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江影视娱乐
+http://ali-vl.cztv.com/channels/lantian/channel005/360p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangMinShengXiuXian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江民生休闲
+http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江新闻
+http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江少儿
+http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangLiuXue.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江留学
+http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
+#EXTINF:-1 tvg-id="ZheJiangIZheJiangGuoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="浙江电视",浙江国际
+http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
